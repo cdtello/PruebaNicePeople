@@ -1,5 +1,18 @@
-Se desarrolla las pruebas solicitadas.
+EASYCOOK "Recetas que nunca se Olvidan"
 
+****************************************
+****************************************
+La aplicacion fue desarrollada en:
+Python 2.7
+Django 1.7
+HTML5, CSS3, JAVASCRIPT
+ES RESPONSIVE
+SE DISEÑARON Y SE USARON TEMPLATES
+SE UTILIZARON ALGUNOS PLUGINS
+SE REALIZA MAQUETACION
+SE UTILIZA BOOTSTRAP PARA LAS PLANTILLAS DE LA APLICACION
+****************************************
+****************************************
 REQUISITOS PARA SU CORRECTO FUNCIONAMIENTO.
 1.Crear base de datos:
 	NAME: easycook
